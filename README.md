@@ -1,2 +1,2 @@
 # Portfolio_Pro_Asadullah
-Portfolio_Pro_Asad is a modern full-stack Pharmacy Management System built with React.js, Node.js, Express, and MongoDB. It includes inventory, POS billing, HRM, accounting, invoices, purchases, returns, and customer management. Designed as a real enterprise ERP with secure, scalable, and professional architecture for university and portfolio use.
+Portfolio_Pro_Asadullah is a modern Pharmacy Management System built using HTML, CSS, JavaScript, Node.js, Express, and MongoDB. It includes inventory, POS billing, invoices, purchases, returns, HRM, attendance, accounting, and customer management. Designed as a real enterprise-style system with clean UI, responsive design, and full CRUD functionality for university and portfolio use.
